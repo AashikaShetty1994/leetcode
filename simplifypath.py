@@ -1,5 +1,6 @@
 """
 Question:
+
 71. Simplify Path
 
 You are given an absolute path for a Unix-style file system, which always begins with a slash '/'.
